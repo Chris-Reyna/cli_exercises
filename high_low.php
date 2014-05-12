@@ -21,7 +21,6 @@ do {
 		
 		echo "HIGHER!\n";
 		
-		$attempts++;
 	}
 
 }while ($guess != $answer);
